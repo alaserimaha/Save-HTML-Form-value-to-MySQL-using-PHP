@@ -15,7 +15,7 @@ but before that to use your PC as a server to complete the task, you have to dow
 
 ## 1. Create a web page to receive input.
 Let's say we want a web page to receive an integer, 
-we will create a simple html page (and save it as a php file) you can find it from the attachments above [getForm.php](https://github.com/alaserimaha/Save-HTML-Form-value-to-MySQL-using-PHP/blob/main/getForm.php)
+we will create a simple html page (and save it as a php file) you can find the example code from the attachments above [getForm.php](https://github.com/alaserimaha/Save-HTML-Form-value-to-MySQL-using-PHP/blob/main/getForm.php)
 
 <img width="1270" alt="getForm.php" src="https://user-images.githubusercontent.com/60073836/183287513-b0c399ae-b955-4cb2-9182-851f9912c284.png">
 
