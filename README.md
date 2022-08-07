@@ -27,4 +27,4 @@ we will create a simple html page (and save it as a php file) you can find the e
 5) For our example, we only need one column of type int , let's say its name is (value)
 
 Choose Save, now our database is ready!
-<img width="1324" alt="database" src="https://user-images.githubusercontent.com/60073836/183287848-d42e7bb9-115a-4293-9093-e6483bf5bf0e.png">
+<img width="1314" alt="database" src="https://user-images.githubusercontent.com/60073836/183287918-c37e2834-8537-489a-b026-08f08d833a29.png">
