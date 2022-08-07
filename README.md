@@ -19,4 +19,11 @@ we will create a simple html page (and save it as a php file) you can find the e
 
 <img width="1270" alt="getForm.php" src="https://user-images.githubusercontent.com/60073836/183287513-b0c399ae-b955-4cb2-9182-851f9912c284.png">
 
+## 2. Create a database to store the entries.
+Open XAMPP and run Apache Web Server and MySQL Database
+Go to application and open phpmyadmin by searching http://localhost/phpmyadmin/
+From the bar, create a new database ( from new button ), let's say its name is (db)
+Create a table inside the database, let's say its name is (table)
+For our example, we only need one column of type int , let's say its name is (value)
 
+Choose Save, now our database is ready!
