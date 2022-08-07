@@ -42,3 +42,4 @@ you can find the example code from the attachments above [get.php](https://githu
 Finally, inside the (xampp >> htdocs) folder you have to create a folder and save two php files in it
 
 Now let's open the first php file with Apache Web Server ( http://localhost/getForm.php ) and enter number 1 for example
+We will see that the browser has converted us to get.php web and that the url contains the value we entered
