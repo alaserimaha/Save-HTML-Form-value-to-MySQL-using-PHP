@@ -34,5 +34,5 @@ Click Save, now our database is ready!
 ## 3. Create a php page to connect a web page to a database.
 We write a php file that stores the value of the number entered, and then sends it to the database
 If the storage task is successful, a message will be displayed (The number ..... has been stored Successfully)
-you can find the example code from the attachments above [getForm.php]
+you can find the example code from the attachments above [get.php](https://github.com/alaserimaha/Save-HTML-Form-value-to-MySQL-using-PHP/blob/main/get.php)
 <img width="440" alt="get.php" src="https://user-images.githubusercontent.com/60073836/183288193-96f88524-b040-411a-8b20-92377839b311.png">
