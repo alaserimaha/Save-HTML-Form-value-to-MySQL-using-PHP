@@ -35,4 +35,10 @@ Click Save, now our database is ready!
 We write a php file that stores the value of the number entered, and then sends it to the database
 If the storage task is successful, a message will be displayed (The number ..... has been stored Successfully)
 you can find the example code from the attachments above [get.php](https://github.com/alaserimaha/Save-HTML-Form-value-to-MySQL-using-PHP/blob/main/get.php)
+
+
 <img width="440" alt="get.php" src="https://user-images.githubusercontent.com/60073836/183288193-96f88524-b040-411a-8b20-92377839b311.png">
+
+Finally, inside the (xampp >> htdocs) folder you have to create a folder and save two php files in it
+
+Now let's open the first php file with Apache Web Server ( http://localhost/getForm.php ) and enter number 1 for example
