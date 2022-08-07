@@ -14,8 +14,7 @@ but before that to use your PC as a server to complete the task, you have to dow
 ## 3. Create a php page to connect a web page to a database.
 
 ## 1. Create a web page to receive input.
-Let's say we want a web page to receive an integer,
-we have created a simple html page. You can find it from the attachments above
-
+Let's say we want a web page to receive an integer, 
+we will create a simple html page (and save it as a php file) you can find it from the attachments above 
 
 
