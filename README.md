@@ -32,3 +32,7 @@ Click Save, now our database is ready!
 <img width="1314" alt="database" src="https://user-images.githubusercontent.com/60073836/183287918-c37e2834-8537-489a-b026-08f08d833a29.png">
 
 ## 3. Create a php page to connect a web page to a database.
+We write a php file that stores the value of the number entered, and then sends it to the database
+If the storage task is successful, a message will be displayed (The number ..... has been stored Successfully)
+you can find the example code from the attachments above [getForm.php]
+<img width="440" alt="get.php" src="https://user-images.githubusercontent.com/60073836/183288193-96f88524-b040-411a-8b20-92377839b311.png">
