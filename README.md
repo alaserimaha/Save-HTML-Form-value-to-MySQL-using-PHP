@@ -1,1 +1,1 @@
-# Save-HTML-Form-value-to-a-MySQL-using-PHP
+# Save HTML Form value to MySQL using PHP
