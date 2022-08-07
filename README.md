@@ -17,6 +17,8 @@ but before that to use your PC as a server to complete the task, you have to dow
 Let's say we want a web page to receive an integer, 
 we will create a simple html page (and save it as a php file) you can find the example code from the attachments above [getForm.php](https://github.com/alaserimaha/Save-HTML-Form-value-to-MySQL-using-PHP/blob/main/getForm.php)
 
+The most important thing when writing input form let method="get" and action=(the name of php page)
+
 <img width="1270" alt="getForm.php" src="https://user-images.githubusercontent.com/60073836/183287513-b0c399ae-b955-4cb2-9182-851f9912c284.png">
 
 ## 2. Create a database to store the entries.
@@ -26,5 +28,7 @@ we will create a simple html page (and save it as a php file) you can find the e
 4) Create a table inside the database, let's say its name is (table)
 5) For our example, we only need one column of type int , let's say its name is (value)
 
-Choose Save, now our database is ready!
+Click Save, now our database is ready!
 <img width="1314" alt="database" src="https://user-images.githubusercontent.com/60073836/183287918-c37e2834-8537-489a-b026-08f08d833a29.png">
+
+## 3. Create a php page to connect a web page to a database.
