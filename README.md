@@ -46,5 +46,5 @@ We will see that the browser has converted us to get.php web and that the url co
 
 <img width="554" alt="‏urlphoto" src="https://user-images.githubusercontent.com/60073836/183288556-3c4e9118-1855-4130-8cfe-569cf59d17fb.png">
 
-
+And if we open the database, we will find that the number 1 has already been stored!
 
